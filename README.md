@@ -29,3 +29,7 @@ Docs:<BR>
 http://www.linfo.org/pipe.html<BR>
 http://www.ub.edu/stat/docencia/Cursos-R/Radvanced/materials/Crear_paquetes_R.pdf<BR>
 http://www.creal.cat/media/upload/arxius/jr/usaR/creacion_librerias_R.pdf<BR>
+
+Tutorials
+http://tuxette.nathalievilla.org/?p=1455&lang=en<BR>
+https://github.com/RevolutionAnalytics/RHadoop/wiki/Downloads<BR>
