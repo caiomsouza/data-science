@@ -1,6 +1,7 @@
 # data-science
 
 Tools:<BR>
+http://julialang.org<BR>
 http://redis.io<BR>
 http://scikit-learn.org/stable/<BR>
 http://www.seleniumhq.org<BR>
