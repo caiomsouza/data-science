@@ -21,3 +21,9 @@ install.packages("dplyr")<BR>
 
 More:<BR>
 Hidden Markov model (HMM)<BR>
+
+Cool websites:<BR>
+http://upcoming.citybik.es<BR>
+
+Docs:<BR>
+http://www.linfo.org/pipe.html<BR>
