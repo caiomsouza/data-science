@@ -1,20 +1,13 @@
 # data-science
 
-Tools:
+Tools:<BR>
+http://www.seleniumhq.org<BR>
+http://scrapy.org/<BR><BR>
 
-http://www.seleniumhq.org
-http://scrapy.org/
-
-R Packages:
-install.packages("plyr")
-install.packages("XML")
-install.packages("rgdal")
-install.packages("sqldf")
-install.packages("rjson")
-install.packages("dplyr")
-
-
-
-
-
-
+R Packages:<BR>
+install.packages("plyr")<BR>
+install.packages("XML")<BR>
+install.packages("rgdal")<BR>
+install.packages("sqldf")<BR>
+install.packages("rjson")<BR>
+install.packages("dplyr")<BR>
