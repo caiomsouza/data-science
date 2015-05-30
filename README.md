@@ -19,6 +19,11 @@ install.packages("sqldf")<BR>
 install.packages("rjson")<BR>
 install.packages("dplyr")<BR>
 
+RHadoop<BR>
+# https://github.com/RevolutionAnalytics/RHadoop/wiki/Downloads<BR>
+install.packages("functional")<BR>
+install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3.1.tar.gz", repos = NULL, type = "source")<BR>
+
 More:<BR>
 Hidden Markov model (HMM)<BR>
 
