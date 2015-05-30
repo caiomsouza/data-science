@@ -27,3 +27,5 @@ http://upcoming.citybik.es<BR>
 
 Docs:<BR>
 http://www.linfo.org/pipe.html<BR>
+http://www.ub.edu/stat/docencia/Cursos-R/Radvanced/materials/Crear_paquetes_R.pdf<BR>
+http://www.creal.cat/media/upload/arxius/jr/usaR/creacion_librerias_R.pdf<BR>
