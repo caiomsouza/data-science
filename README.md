@@ -36,5 +36,5 @@ Tutorials<BR>
 http://tuxette.nathalievilla.org/?p=1455&lang=en<BR>
 https://github.com/RevolutionAnalytics/RHadoop/wiki/Downloads<BR>
 
-RStudio + Hadoop
+RStudio + Hadoop<BR>
 http://www.datanalytics.com/2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/<BR>
