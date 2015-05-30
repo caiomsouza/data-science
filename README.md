@@ -35,3 +35,6 @@ http://www.creal.cat/media/upload/arxius/jr/usaR/creacion_librerias_R.pdf<BR>
 Tutorials<BR>
 http://tuxette.nathalievilla.org/?p=1455&lang=en<BR>
 https://github.com/RevolutionAnalytics/RHadoop/wiki/Downloads<BR>
+
+RStudio + Hadoop
+http://www.datanalytics.com/2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/<BR>
