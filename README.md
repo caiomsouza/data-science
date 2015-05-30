@@ -19,5 +19,5 @@ install.packages("sqldf")<BR>
 install.packages("rjson")<BR>
 install.packages("dplyr")<BR>
 
-More:
-Hidden Markov model (HMM)
+More:<BR>
+Hidden Markov model (HMM)<BR>
