@@ -9,8 +9,6 @@ http://scikit-learn.org/stable/<BR>
 http://www.seleniumhq.org<BR>
 http://scrapy.org/<BR><BR>
 
-
-
 R Packages:<BR>
 install.packages("plyr")<BR>
 install.packages("XML")<BR>
@@ -20,7 +18,6 @@ install.packages("rjson")<BR>
 install.packages("dplyr")<BR>
 
 RHadoop<BR>
-# https://github.com/RevolutionAnalytics/RHadoop/wiki/Downloads<BR>
 install.packages("functional")<BR>
 install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3.1.tar.gz", repos = NULL, type = "source")<BR>
 
