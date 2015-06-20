@@ -127,5 +127,7 @@ https://plot.ly<BR>
 https://help.github.com/articles/markdown-basics/
 
 ## Run Gephi on PEDS VM
+```
 cd /opt/gephi/bin
 ./gephi
+```
