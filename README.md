@@ -16,6 +16,13 @@ install.packages("rgdal")<BR>
 install.packages("sqldf")<BR>
 install.packages("rjson")<BR>
 install.packages("dplyr")<BR>
+install.packages("data.table")<BR>
+install.packages("reshape2")<BR>
+install.packages("ggplot2")<BR>
+install.packages("RColorBrewer")<BR>
+install.packages("lattice")<BR>
+install.packages("shiny")<BR>
+
 
 RHadoop<BR>
 install.packages("functional")<BR>
@@ -24,6 +31,12 @@ install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3
 More:<BR>
 Hidden Markov model (HMM)<BR>
 
+Links:
+http://colorbrewer2.org<BR>
+http://data.flowingdata.com<BR>
+https://flowingdata.com<BR>
+
+
 Cool websites:<BR>
 http://upcoming.citybik.es<BR>
 
@@ -31,10 +44,16 @@ Docs:<BR>
 http://www.linfo.org/pipe.html<BR>
 http://www.ub.edu/stat/docencia/Cursos-R/Radvanced/materials/Crear_paquetes_R.pdf<BR>
 http://www.creal.cat/media/upload/arxius/jr/usaR/creacion_librerias_R.pdf<BR>
+http://shiny.rstudio.com<BR>
+http://docs.ggplot2.org/current/index.html<BR>
 
 Tutorials<BR>
 http://tuxette.nathalievilla.org/?p=1455&lang=en<BR>
 https://github.com/RevolutionAnalytics/RHadoop/wiki/Downloads<BR>
+
+Courses Taught by Hadley Wickham
+http://courses.had.co.nz
+http://had.co.nz
 
 RStudio + Hadoop<BR>
 http://www.datanalytics.com/2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/<BR>
@@ -45,3 +64,7 @@ https://www.mamp.info/en/downloads/<BR>
 
 Anaconda Server<BR>
 http://continuum.io/anaconda-server<BR>
+
+Customizing R Startup
+http://www.statmethods.net/interface/customizing.html<BR>
+
