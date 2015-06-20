@@ -24,7 +24,7 @@ install.packages("RColorBrewer")
 install.packages("lattice")
 install.packages("shiny")
 install.packages("maps")
-install.packages("ggthemes")
+install.packages('ggthemes', dependencies = TRUE)
 ```
 
 ##RHadoop
@@ -58,9 +58,15 @@ source("your_script.R")
 # Write Table
 write.table(dt.nodes, file="/home/usuario/caiomsouza/github.com/u-tad/Mod8/jaime-zaratiegui/dat/nodes.csv", row.names=F, col.names = T, sep=",", quote=T)
 
-
+# install the development version from github, use the devtools package,
+library("devtools")
+# github username / Package name 
+# https://github.com/caiomsouza/caiomsouzarpackage
+install_github("caiomsouza/caiomsouzarpackage")
 
 ```
+
+http://www.sr.bham.ac.uk/~ajrs/R/r-function_list.html
 
 ##More:
 Hidden Markov model (HMM)<BR>
@@ -69,6 +75,8 @@ Hidden Markov model (HMM)<BR>
 http://colorbrewer2.org<BR>
 http://data.flowingdata.com<BR>
 https://flowingdata.com<BR>
+http://wesmckinney.com/blog/
+
 
 
 ##Cool websites:
@@ -84,6 +92,8 @@ http://docs.ggplot2.org/current/index.html<BR>
 ##Tutorials
 http://tuxette.nathalievilla.org/?p=1455&lang=en<BR>
 https://github.com/RevolutionAnalytics/RHadoop/wiki/Downloads<BR>
+http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf<BR>
+http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/<BR>
 
 ##Courses Taught by Hadley Wickham
 http://courses.had.co.nz<BR>
@@ -101,3 +111,7 @@ http://continuum.io/anaconda-server<BR>
 
 ##Customizing R Startup
 http://www.statmethods.net/interface/customizing.html<BR>
+
+## R Package Example
+https://github.com/caiomsouza/caiomsouzarpackage<BR>
+
