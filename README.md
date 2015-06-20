@@ -1,6 +1,6 @@
-# data-science
+### data-science
 
-Tools:<BR>
+#Tools:<BR>
 http://www.cs.waikato.ac.nz/ml/weka/<BR>
 http://www.r-project.org<BR>
 http://julialang.org<BR>
@@ -9,7 +9,7 @@ http://scikit-learn.org/stable/<BR>
 http://www.seleniumhq.org<BR>
 http://scrapy.org/<BR><BR>
 
-R Packages:<BR>
+#R Packages:<BR>
 ```
 install.packages("plyr")
 install.packages("XML")
@@ -26,7 +26,7 @@ install.packages("shiny")
 install.packages("maps")
 ```
 
-RHadoop<BR>
+#RHadoop<BR>
 ```
 install.packages("functional")
 install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3.1.tar.gz", repos = NULL, type = "source")
@@ -41,7 +41,7 @@ if (!(require("RColorBrewer", character.only=T, quietly=T))) {
 ```
 
 
-More:<BR>
+#More:<BR>
 Hidden Markov model (HMM)<BR>
 
 Links:<BR>
