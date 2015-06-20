@@ -7,7 +7,9 @@ http://julialang.org<BR>
 http://redis.io<BR>
 http://scikit-learn.org/stable/<BR>
 http://www.seleniumhq.org<BR>
-http://scrapy.org/<BR><BR>
+http://scrapy.org/<BR>
+http://gephi.github.io<BR><BR>
+
 
 ##R Packages:
 ```
@@ -88,6 +90,7 @@ http://www.ub.edu/stat/docencia/Cursos-R/Radvanced/materials/Crear_paquetes_R.pd
 http://www.creal.cat/media/upload/arxius/jr/usaR/creacion_librerias_R.pdf<BR>
 http://shiny.rstudio.com<BR>
 http://docs.ggplot2.org/current/index.html<BR>
+http://www.cookbook-r.com<BR>
 
 ##Tutorials
 http://tuxette.nathalievilla.org/?p=1455&lang=en<BR>
@@ -122,3 +125,7 @@ https://plot.ly<BR>
 
 ##Markdown Basics
 https://help.github.com/articles/markdown-basics/
+
+## Run Gephi on PEDS VM
+cd /opt/gephi/bin
+./gephi
