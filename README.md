@@ -22,11 +22,20 @@ install.packages("ggplot2")<BR>
 install.packages("RColorBrewer")<BR>
 install.packages("lattice")<BR>
 install.packages("shiny")<BR>
+install.packages("maps")<BR>
 
 
 RHadoop<BR>
 install.packages("functional")<BR>
 install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3.1.tar.gz", repos = NULL, type = "source")<BR>
+
+<code>
+if (!(require("RColorBrewer", character.only=T, quietly=T))) {
+  install.packages("RColorBrewer")
+  library("RColorBrewer", character.only=T)
+}
+</code>
+
 
 More:<BR>
 Hidden Markov model (HMM)<BR>
