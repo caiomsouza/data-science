@@ -11,25 +11,25 @@ http://scrapy.org/<BR><BR>
 
 R Packages:<BR>
 ```
-install.packages("plyr")<BR>
-install.packages("XML")<BR>
-install.packages("rgdal")<BR>
-install.packages("sqldf")<BR>
-install.packages("rjson")<BR>
-install.packages("dplyr")<BR>
-install.packages("data.table")<BR>
-install.packages("reshape2")<BR>
-install.packages("ggplot2")<BR>
-install.packages("RColorBrewer")<BR>
-install.packages("lattice")<BR>
-install.packages("shiny")<BR>
-install.packages("maps")<BR>
+install.packages("plyr")
+install.packages("XML")
+install.packages("rgdal")
+install.packages("sqldf")
+install.packages("rjson")
+install.packages("dplyr")
+install.packages("data.table")
+install.packages("reshape2")
+install.packages("ggplot2")
+install.packages("RColorBrewer")
+install.packages("lattice")
+install.packages("shiny")
+install.packages("maps")
 ```
 
 RHadoop<BR>
 ```
-install.packages("functional")<BR>
-install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3.1.tar.gz", repos = NULL, type = "source")<BR>
+install.packages("functional")
+install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3.1.tar.gz", repos = NULL, type = "source")
 ```
 
 
