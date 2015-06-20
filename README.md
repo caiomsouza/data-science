@@ -31,7 +31,7 @@ install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3
 More:<BR>
 Hidden Markov model (HMM)<BR>
 
-Links:
+Links:<BR>
 http://colorbrewer2.org<BR>
 http://data.flowingdata.com<BR>
 https://flowingdata.com<BR>
