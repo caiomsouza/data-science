@@ -40,6 +40,16 @@ if (!(require("RColorBrewer", character.only=T, quietly=T))) {
 }
 ```
 
+#R Commands
+
+```
+# Show tables
+tables()
+
+# Call a external R Script
+source("your_script.R")
+
+```
 
 #More:<BR>
 Hidden Markov model (HMM)<BR>
