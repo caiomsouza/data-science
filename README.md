@@ -43,11 +43,21 @@ if (!(require("RColorBrewer", character.only=T, quietly=T))) {
 #R Commands
 
 ```
+
+require("data.table")
+getwd()
+dt.data <- fread("/home/usuario/caiomsouza/github.com/u-tad/Mod8/jaime-zaratiegui/dat/callme.csv")
+
 # Show tables
 tables()
 
 # Call a external R Script
 source("your_script.R")
+
+# Write Table
+write.table(dt.nodes, file="/home/usuario/caiomsouza/github.com/u-tad/Mod8/jaime-zaratiegui/dat/nodes.csv", row.names=F, col.names = T, sep=",", quote=T)
+
+
 
 ```
 
@@ -88,6 +98,6 @@ https://www.mamp.info/en/downloads/<BR>
 Anaconda Server<BR>
 http://continuum.io/anaconda-server<BR>
 
-Customizing R Startup
+Customizing R Startup<BR>
 http://www.statmethods.net/interface/customizing.html<BR>
 
