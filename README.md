@@ -115,3 +115,10 @@ http://www.statmethods.net/interface/customizing.html<BR>
 ## R Package Example
 https://github.com/caiomsouza/caiomsouzarpackage<BR>
 
+##Plotly
+Collaborative data science.<BR>
+Plotly is the easiest way to graph and share your data.<BR>
+https://plot.ly<BR>
+
+##Markdown Basics
+https://help.github.com/articles/markdown-basics/
