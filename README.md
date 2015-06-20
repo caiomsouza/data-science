@@ -10,6 +10,7 @@ http://www.seleniumhq.org<BR>
 http://scrapy.org/<BR><BR>
 
 R Packages:<BR>
+```
 install.packages("plyr")<BR>
 install.packages("XML")<BR>
 install.packages("rgdal")<BR>
@@ -23,11 +24,14 @@ install.packages("RColorBrewer")<BR>
 install.packages("lattice")<BR>
 install.packages("shiny")<BR>
 install.packages("maps")<BR>
-
+```
 
 RHadoop<BR>
+```
 install.packages("functional")<BR>
 install.packages("~/git/Bitbucket/u-tad/Mod7/carlos.bellosta/r-packages/rmr2_3.3.1.tar.gz", repos = NULL, type = "source")<BR>
+```
+
 
 ```
 if (!(require("RColorBrewer", character.only=T, quietly=T))) {
