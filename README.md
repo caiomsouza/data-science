@@ -132,18 +132,18 @@ cd /opt/gephi/bin
 ./gephi
 ```
 
-Links:
-https://siftscience.com/
-http://techcrunch.com/2013/03/19/ex-googlers-launch-sift-science-a-fraud-fighting-system-for-websites-backed-by-5-5m-in-funding-from-union-square-first-round-yc-others/
-https://bigml.com/gallery/models
-http://www.dmg.org/v4-1/Statistics.html
-https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language
-https://github.com/owenzhang/kaggle-avito
-https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/14335/1st-place-winner-solution-gilberto-titericz-stanislav-semenov
-https://www.kaggle.com/titericz
-https://www.kaggle.com/stasg7
-https://github.com/titericz
+##Links:<BR>
+https://siftscience.com/<BR>
+http://techcrunch.com/2013/03/19/ex-googlers-launch-sift-science-a-fraud-fighting-system-for-websites-backed-by-5-5m-in-funding-from-union-square-first-round-yc-others/<BR>
+https://bigml.com/gallery/models<BR>
+http://www.dmg.org/v4-1/Statistics.html<BR>
+https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language<BR>
+https://github.com/owenzhang/kaggle-avito<BR>
+https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/14335/1st-place-winner-solution-gilberto-titericz-stanislav-semenov<BR>
+https://www.kaggle.com/titericz<BR>
+https://www.kaggle.com/stasg7<BR>
+https://github.com/titericz<BR><BR>
 
-https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html
-https://en.wikipedia.org/wiki/Scatter_plot
+https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html<BR>
+https://en.wikipedia.org/wiki/Scatter_plot<BR>
 
