@@ -1,0 +1,33 @@
+---
+title: 'R Basic: Functions'
+author: "Caio Moreno"
+date: "October 3, 2015"
+output: pdf_document
+---
+
+In this example we will see how to create a Function in R:
+
+```{r}
+
+setwd("~/git/github.com/data-science/r-commands")
+
+
+# An example of a Function in R
+your.test.function <- function(x, y) {
+  
+  sum = y + x
+  return(sum)
+  
+} 
+
+# Call your function and pass x and y to the function
+sum <- your.test.function(4,2)
+
+# print the result of sum
+sum
+
+```
+
+
+Source:
+http://www.statmethods.net/management/userfunctions.html
