@@ -5,4 +5,7 @@ Social network analysis (SNA) is a strategy for investigating social structures 
 ## SNA Course at Coursera
 https://www.coursera.org/course/sna
 
+## Stanford Network Analysis Project
+http://snap.stanford.edu/index.html
+
 
