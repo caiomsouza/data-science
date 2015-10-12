@@ -242,6 +242,17 @@ Apache Spark<BR>
 Create a Cluster With Spark<BR>
 https://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-spark-launch.html<BR>
 
+Install Apache Spark on Ubuntu-14.04<BR>
+http://blog.prabeeshk.com/blog/2014/10/31/install-apache-spark-on-ubuntu-14-dot-04/
+
+Apache Spark Quick Start<BR>
+http://spark.apache.org/docs/1.1.1/quick-start.html<BR>
+
+./ Spark standalone cluster tutorial<BR>
+http://mbonaci.github.io/mbo-spark/<BR>
+
+Hello, World in Java on Mac OS X <BR>
+http://www.cs.princeton.edu/courses/archive/spr04/cos126/hello/mac.html<BR>
 
 SISTEMA DE MONITORIZACIÓN Y CONTROL DE TRÁFICO EN CARRETERA<BR>
 http://www.robesafe.com/personal/pablo.alcantarilla/papers/Alcantarilla06pfc.pdf<BR>
@@ -250,12 +261,20 @@ https://docs.google.com/presentation/d/1dFX8jXQDcEvA79oaBwKHeniak0wt4Sxp3KRJxBb2
 Calibración de cámaras y procesamiento de imágenes (III)<BR>
 https://littlecodes.wordpress.com/2013/07/02/calibracion-de-camaras-y-procesamiento-de-imagenes-iii/<BR>
 
+Warning: Clusters May Appear More Separated in Textbooks than in Practice<BR>
+http://www.r-bloggers.com/warning-clusters-may-appear-more-separated-in-textbooks-than-in-practice/<BR>
+
+
 News:<BR>
 Sefaz-PR aplica BI em gestão de auditoria<BR>
 http://www.decisionreport.com.br/publique/cgi/cgilua.exe/sys/start.htm?infoid=20777&sid=2<BR>
 
 Study of Data Mining for Terrorists Is Urged<BR>
 http://www.nytimes.com/2008/10/08/washington/08data.html?_r=5&ref=us&<BR>
+
+
+
+
 
 
 BI Tools:<BR>
