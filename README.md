@@ -148,22 +148,22 @@ https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html<B
 https://en.wikipedia.org/wiki/Scatter_plot<BR>
 
 # Open Source Big Data Science Bootcamp
-Introduction to Business Intelligence, Big Data, ETL, DW and Predictive Analytics
-Integration all the worlds BI, Big Data and Predictive Analytics.
-Who is a Data Scientst ? What is the skills of a Data Sciencist? 
-Introduction to the Data Science Toolkit
-Introduction to R, Python and Weka 
-Data preparation with R, Python and PDI
-Python scikit-learn
-PCA
-Predictive Modelling Techniques
-    Supervised Learning
-    Unsupervised Learning
-Competing at Kaggle with real data science problems for real companies
-Using Sparkl with R in a Real Problem
-Integration R with Pentaho using pdiR and SparklPDI
-Visualizion your Data using Pentaho
-Sentiment Analysis using Hadoop
+Introduction to Business Intelligence, Big Data, ETL, DW and Predictive Analytics<BR>
+Integration all the worlds BI, Big Data and Predictive Analytics.<BR>
+Who is a Data Scientst ? What is the skills of a Data Sciencist? <BR>
+Introduction to the Data Science Toolkit<BR>
+Introduction to R, Python and Weka <BR>
+Data preparation with R, Python and PDI<BR>
+Python scikit-learn<BR>
+PCA<BR>
+Predictive Modelling Techniques<BR>
+    Supervised Learning<BR>
+    Unsupervised Learning<BR>
+Competing at Kaggle with real data science problems for real companies<BR>
+Using Sparkl with R in a Real Problem<BR>
+Integration R with Pentaho using pdiR and SparklPDI<BR>
+Visualizion your Data using Pentaho<BR>
+Sentiment Analysis using Hadoop<BR>
 
 ##Data Science Bootcamps
 
