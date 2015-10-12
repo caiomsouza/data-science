@@ -147,3 +147,62 @@ https://github.com/titericz<BR><BR>
 https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html<BR>
 https://en.wikipedia.org/wiki/Scatter_plot<BR>
 
+# Open Source Big Data Science Bootcamp
+Introduction to Business Intelligence, Big Data, ETL, DW and Predictive Analytics
+Integration all the worlds BI, Big Data and Predictive Analytics.
+Who is a Data Scientst ? What is the skills of a Data Sciencist? 
+Introduction to the Data Science Toolkit
+Introduction to R, Python and Weka 
+Data preparation with R, Python and PDI
+Python scikit-learn
+PCA
+Predictive Modelling Techniques
+    Supervised Learning
+    Unsupervised Learning
+Competing at Kaggle with real data science problems for real companies
+Using Sparkl with R in a Real Problem
+Integration R with Pentaho using pdiR and SparklPDI
+Visualizion your Data using Pentaho
+Sentiment Analysis using Hadoop
+
+##Data Science Bootcamps
+
+http://www.simplilearn.com/big-data-and-analytics/data-scientist-certification-sas-r-excel-training?utm_source=google&utm_medium=cpc&utm_content=lvc&utm_term=%2Bdata%20%2Bscience&utm_campaign=search-certified-data-scientist-lvc-us-ca&gclid=CNu6ytSslMgCFYTnGwod9rcAJw#/ilt
+
+
+
+
+# Kappa Architecture
+http://www.kappa-architecture.com
+http://www.computerweekly.com/cgi-bin/mt-search.cgi?IncludeBlogs=123&tag=Kappa%20Architecture&limit=20
+http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
+https://gist.github.com/ahdinosaur/bd1a0005154656217aae
+
+
+
+##Freedabases
+
+Geonames
+http://www.geonames.org
+
+
+#Data Science SaaS
+https://algorithmia.com
+
+Companies:
+https://novelti.io
+
+Gartner CIO Agenda 2015: Top 10 IT Technology Priorities
+http://www.arrowsi.com/company/blog/Gartner-CIO-Agenda-2015.html
+http://www.gartner.com/imagesrv/cio/pdf/cio_agenda_insights2015.pdf
+
+
+# Twitter API + R
+
+Social media analysis in R using twitter API
+http://www.slideshare.net/MohdAlam3/social-media-analysis-twitter-api-using-r?related=1
+
+
+
+
+
