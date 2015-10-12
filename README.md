@@ -167,40 +167,68 @@ Sentiment Analysis using Hadoop
 
 ##Data Science Bootcamps
 
-http://www.simplilearn.com/big-data-and-analytics/data-scientist-certification-sas-r-excel-training?utm_source=google&utm_medium=cpc&utm_content=lvc&utm_term=%2Bdata%20%2Bscience&utm_campaign=search-certified-data-scientist-lvc-us-ca&gclid=CNu6ytSslMgCFYTnGwod9rcAJw#/ilt
+http://www.simplilearn.com/big-data-and-analytics/data-scientist-certification-sas-r-excel-training?utm_source=google&utm_medium=cpc&utm_content=lvc&utm_term=%2Bdata%20%2Bscience&utm_campaign=search-certified-data-scientist-lvc-us-ca&gclid=CNu6ytSslMgCFYTnGwod9rcAJw#/ilt<BR>
 
 
 
 
 # Kappa Architecture
-http://www.kappa-architecture.com
-http://www.computerweekly.com/cgi-bin/mt-search.cgi?IncludeBlogs=123&tag=Kappa%20Architecture&limit=20
-http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
-https://gist.github.com/ahdinosaur/bd1a0005154656217aae
+http://www.kappa-architecture.com<BR>
+http://www.computerweekly.com/cgi-bin/mt-search.cgi?IncludeBlogs=123&tag=Kappa%20Architecture&limit=20<BR>
+http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html<BR>
+https://gist.github.com/ahdinosaur/bd1a0005154656217aae<BR>
 
 
 
 ##Freedabases
 
-Geonames
-http://www.geonames.org
+Geonames<BR>
+http://www.geonames.org<BR>
 
 
 #Data Science SaaS
 https://algorithmia.com
 
-Companies:
-https://novelti.io
+Companies:<BR>
+https://novelti.io<BR><BR>
 
-Gartner CIO Agenda 2015: Top 10 IT Technology Priorities
-http://www.arrowsi.com/company/blog/Gartner-CIO-Agenda-2015.html
-http://www.gartner.com/imagesrv/cio/pdf/cio_agenda_insights2015.pdf
+Gartner CIO Agenda 2015: Top 10 IT Technology Priorities<BR>
+http://www.arrowsi.com/company/blog/Gartner-CIO-Agenda-2015.html<BR>
+http://www.gartner.com/imagesrv/cio/pdf/cio_agenda_insights2015.pdf<BR>
 
 
 # Twitter API + R
 
-Social media analysis in R using twitter API
-http://www.slideshare.net/MohdAlam3/social-media-analysis-twitter-api-using-r?related=1
+SSL Twitter API<BR>
+https://littlecodes.wordpress.com<BR>
+
+Social media analysis in R using twitter API<BR>
+http://www.slideshare.net/MohdAlam3/social-media-analysis-twitter-api-using-r?related=1<BR>
+
+Natural Language Processing in R (rNLP)<BR>
+http://www.slideshare.net/fridolin.wild/natural-language-processing-in-r-rnlp?related=1<BR>
+
+How Sentiment Analysis work<BR>
+http://www.slideshare.net/mcjenkins/how-sentiment-analysis-works?related=1<BR>
+
+Text Mining with R -- an Analysis of Twitter Data<BR>
+http://www.slideshare.net/rdatamining/text-mining-with-r-an-analysis-of-twitter-data<BR>
+
+Labs:
+SISTEMA DE MONITORIZACIÓN Y CONTROL DE TRÁFICO EN CARRETERA<BR>
+http://www.robesafe.com/personal/pablo.alcantarilla/papers/Alcantarilla06pfc.pdf<BR>
+https://docs.google.com/presentation/d/1dFX8jXQDcEvA79oaBwKHeniak0wt4Sxp3KRJxBb2W8U/present?slide=id.i0<BR>
+
+Calibración de cámaras y procesamiento de imágenes (III)<BR>
+https://littlecodes.wordpress.com/2013/07/02/calibracion-de-camaras-y-procesamiento-de-imagenes-iii/<BR>
+
+News:<BR>
+Sefaz-PR aplica BI em gestão de auditoria<BR>
+http://www.decisionreport.com.br/publique/cgi/cgilua.exe/sys/start.htm?infoid=20777&sid=2<BR>
+
+BI Tools:<BR>
+http://www.dundas.com<BR>
+
 
 
 
