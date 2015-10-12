@@ -167,6 +167,27 @@ Sentiment Analysis using Hadoop<BR>
 
 ##Data Science Bootcamps
 
+http://www.thisismetis.com/data-science<BR>
+
+The Complete List of Data Science Bootcamps & Fellowships<BR>
+http://www.skilledup.com/articles/list-data-science-bootcamps<BR>
+
+Learn Data Science at These 13 Coding Bootcamps<BR>
+https://www.coursereport.com/blog/learn-data-science-at-these-13-bootcamps-and-programs<BR>
+
+Microsoft Research Data Science Summer School<BR>
+https://www.coursereport.com/schools/microsoft-research-data-science-summer-school#/about
+
+Microsoft Research Data Science Summer School<BR>
+https://ds3.research.microsoft.com<BR>
+
+Nice list of Data Science Bootcamp Programs – Posted by Ikechukwu Okonkwo<BR>
+http://datasciencebe.com/2014/09/24/nice-list-of-data-science-bootcamp-programs-posted-by-ikechukwu-okonkwo/<BR>
+
+
+<BR>
+
+
 http://www.simplilearn.com/big-data-and-analytics/data-scientist-certification-sas-r-excel-training?utm_source=google&utm_medium=cpc&utm_content=lvc&utm_term=%2Bdata%20%2Bscience&utm_campaign=search-certified-data-scientist-lvc-us-ca&gclid=CNu6ytSslMgCFYTnGwod9rcAJw#/ilt<BR>
 
 
@@ -214,7 +235,13 @@ http://www.slideshare.net/mcjenkins/how-sentiment-analysis-works?related=1<BR>
 Text Mining with R -- an Analysis of Twitter Data<BR>
 http://www.slideshare.net/rdatamining/text-mining-with-r-an-analysis-of-twitter-data<BR>
 
-Labs:
+###Labs
+
+Apache Spark<BR>
+Create a Cluster With Spark<BR>
+https://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-spark-launch.html<BR>
+
+
 SISTEMA DE MONITORIZACIÓN Y CONTROL DE TRÁFICO EN CARRETERA<BR>
 http://www.robesafe.com/personal/pablo.alcantarilla/papers/Alcantarilla06pfc.pdf<BR>
 https://docs.google.com/presentation/d/1dFX8jXQDcEvA79oaBwKHeniak0wt4Sxp3KRJxBb2W8U/present?slide=id.i0<BR>
@@ -226,8 +253,15 @@ News:<BR>
 Sefaz-PR aplica BI em gestão de auditoria<BR>
 http://www.decisionreport.com.br/publique/cgi/cgilua.exe/sys/start.htm?infoid=20777&sid=2<BR>
 
+Study of Data Mining for Terrorists Is Urged<BR>
+http://www.nytimes.com/2008/10/08/washington/08data.html?_r=5&ref=us&<BR>
+
+
 BI Tools:<BR>
 http://www.dundas.com<BR>
+
+Data Mining Tools:<BR>
+http://www.salford-systems.com<BR>
 
 
 
