@@ -273,15 +273,20 @@ Study of Data Mining for Terrorists Is Urged<BR>
 http://www.nytimes.com/2008/10/08/washington/08data.html?_r=5&ref=us&<BR>
 
 
-
-
-
-
 BI Tools:<BR>
 http://www.dundas.com<BR>
 
 Data Mining Tools:<BR>
 http://www.salford-systems.com<BR>
+
+Articles:<BR>
+The Programs That Become the Programmers<BR>
+http://www.slate.com/articles/technology/bitwise/2015/09/pedro_domingos_master_algorithm_how_machine_learning_is_reshaping_how_we.2.html<BR>
+
+Books:<BR>
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World<BR>
+http://www.amazon.com/dp/0465065708/?tag=slatmaga-20<BR>
+
 
 
 
