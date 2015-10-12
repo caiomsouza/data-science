@@ -1,4 +1,10 @@
-# data-science
+# Data Science
+
+Data Science is an interdisciplinary field about processes and systems to extract knowledge or insights from large volumes of data in various forms, either structured or unstructured,[1][2] which is a continuation of some of the data analysis fields such as statistics, data mining and predictive analytics, as well as Knowledge Discovery in Databases (KDD).
+
+https://en.wikipedia.org/wiki/Data_science<BR>
+http://datasciencemasters.org<BR>
+
 
 ##Tools:<BR>
 http://www.cs.waikato.ac.nz/ml/weka/<BR>
@@ -167,6 +173,8 @@ Visualizion your Data using Pentaho<BR>
 Sentiment Analysis using Hadoop<BR>
 
 ##Data Science Bootcamps
+
+http://insightdatascience.com<BR>
 
 http://www.thisismetis.com/data-science<BR>
 
