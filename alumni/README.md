@@ -1,13 +1,15 @@
 # U-TAD Alumni and Professors
 
-Javier Serrano Crespo
-https://www.linkedin.com/in/javisc
-https://github.com/xavi783/u-tad/tree/master/Modulo8
-http://xavi783.github.io/about/
-https://twitter.com/xavi_scr
+Javier Serrano Crespo<BR>
+https://www.linkedin.com/in/javisc<BR>
+https://github.com/xavi783/u-tad/tree/master/Modulo8<BR>
+http://xavi783.github.io/about/<BR>
+https://twitter.com/xavi_scr<BR>
 
-Daniel Peña
-https://github.com/dppascual/Data_Preparation_in_R
+Daniel Peña<BR>
+https://github.com/dppascual/Data_Preparation_in_R<BR>
+
+
 
 # UCM (Universidad Complutense de Madrid) Alumni and Professors
 
