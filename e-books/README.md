@@ -26,3 +26,7 @@ http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf<BR>
 ###García Pérez, Alfonso: 
 Estadística Básica con R. Editorial UNED <BR>
 ISBN: 9788436260939<BR>
+
+More:
+
+
