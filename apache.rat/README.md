@@ -19,6 +19,6 @@ mvn clean install
 ###Run Apache Rat
 ```
 cd /Users/caiomsouza/svn/apache.rat/trunk/apache-rat/target
-java -jar apache-rat-0.12-SNAPSHOT.jar
+java -jar apache-rat-0.12-SNAPSHOT.jar --help
 ```
 
